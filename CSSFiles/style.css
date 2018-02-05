@@ -1,0 +1,16 @@
+
+body{
+	background:silver;
+	font-family: sans-serif;
+
+}
+blockquote{
+	margin: 15px;
+	padding:10px;
+	border: solid white;
+	text-align:center;
+}
+div{
+	margin:auto;
+	width:500px;
+}
